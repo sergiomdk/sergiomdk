@@ -16,44 +16,38 @@ Aqui puedes conocer un poco de mi
 </p>
 
 
-##  <h2 align="center">🚀 Sobre Mi </h2>
+##  <h2 align="center"> Sobre Mi </h2>
 
 <img align="right" src="https://github.com/user-attachments/assets/9ea593fa-68d5-4bfe-982e-2505b90f47bc" width="280" alt="Developer Illustration" />
 
+Soy un Estudiante de Ingeniería en Informática, Aprendiendo y desarrollando proyectos mientras avanzo en mi formación.
 
-**Shaddy**, Here  — a final-year Computer Engineering student focused on backend development.
+Aprendo rápido con cosas que me gustas como en cosas del trabajo, estoy en mis primeros años de programación.
+voy aprendiendo como académicamente e individualmente, espero llegar rápido a la cima. 
 
-I enjoy building scalable, production-ready APIs with Python and continuously improving my understanding of real-world backend systems.
-
-Currently, I'm learning **FastAPI, PostgreSQL, SQLAlchemy, Docker, and Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
-
-My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
 
 <br clear="right"/>
 
- <h2 align="center">🤝 Connect</h2>
+ <h2 align="center">Contactame</h2>
 
-<p align="center">
-  <a href="https://github.com/midnightshady">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
-  </a>
+<p align="center"> 
   &nbsp;&nbsp;&nbsp;
-  <a href="(https://www.linkedin.com/in/sergio-ca%C3%B1ete-a58a9b350/)">
+  <a href="https://www.linkedin.com/in/sergio-ca%C3%B1ete-a58a9b350">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:kaifqureshi3672@gmail.com">
+  <a href="mailto:sergiomdk207@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">Aprendiendo</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,html,css,c," />
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,html,css,c" />
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
 
@@ -62,8 +56,6 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 </div>
 
 ### 
-<h2 align="center">⌘ Commit Activity</h2>
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
