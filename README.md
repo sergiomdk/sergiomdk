@@ -20,9 +20,9 @@ Aqui puedes conocer un poco de mi
 
 <img align="right" src="https://github.com/user-attachments/assets/9ea593fa-68d5-4bfe-982e-2505b90f47bc" width="280" alt="Developer Illustration" />
 
-Soy un Estudiante de Ingeniería en Informática, Aprendiendo y desarrollando proyectos mientras avanzo en mi formación.
+ Soy un Estudiante de Ingeniería en Informática, Aprendiendo y desarrollando proyectos mientras avanzo en mi formación.
 
-Aprendo rápido con cosas que me gustas como en cosas del trabajo, estoy en mis primeros años de programación.
+ Aprendo rápido con cosas que me gustas como en cosas del trabajo, estoy en mis primeros años de programación.
 voy aprendiendo como académicamente e individualmente, espero llegar rápido a la cima. 
 
 
@@ -44,7 +44,7 @@ voy aprendiendo como académicamente e individualmente, espero llegar rápido a 
 <h2 align="center">Aprendiendo</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,html,css,c" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,vscode,html,css,c" />
 </p>
 
 <h2 align="center">GitHub Stats</h2>
